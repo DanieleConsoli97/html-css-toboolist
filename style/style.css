@@ -60,3 +60,20 @@ margin: 10px auto 10px 50px ;
     padding: 5px;
    
     }
+
+    .checkok{
+    
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+    
+    }
+
+    .buttonblu{
+    
+        background-color: blue;
+        color:white;
+        border-radius: 10px;
+        padding: 3px;
+    
+    }
