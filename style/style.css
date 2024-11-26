@@ -21,8 +21,17 @@ vertical-align: middle;
 }
 
 main{
-background-color: white;
+    background-color: #f6f8f9;
     margin-top:50px;
 
 
+}
+
+
+.container{
+
+    width: 80%;
+    margin: 50px auto 0 auto;
+    background-color: white;
+    margin-top:5px;
 }
