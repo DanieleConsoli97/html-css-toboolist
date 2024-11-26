@@ -34,11 +34,11 @@ main{
     margin: 50px auto 0 auto;
     background-color: white;
     margin-top:5px;
+    padding:.5em;
 }
 
 .container.add{
     border-radius: 3px 3px 0px 0px  ;
-
 } 
 
 #buttontask{
@@ -66,14 +66,53 @@ margin: 10px auto 10px 50px ;
     border: 1px solid green;
     border-radius: 50%;
     color: green;
-    
+    padding: 3px;
     }
+
+    .checknok{
+    
+        border: 1px solid red;
+        border-radius: 50%;
+        color: red;
+        padding: 3px;
+        }
 
     .buttonblu{
     
-        background-color: blue;
+        background-color: #45abe9;
         color:white;
         border-radius: 10px;
         padding: 3px;
     
     }
+
+   
+     .container.formatext {
+    
+        line-height: 35px;
+
+    }  
+  .dist{
+    padding-bottom: 20px;
+
+}
+.buttonviola{
+    background-color:#9c72e4;
+    color:white;
+    border-radius: 10px;
+    padding: 3px;
+}
+.buttongreen{
+
+    background-color:rgb(100, 192, 168);
+    color:white;
+    border-radius: 10px;
+    padding: 3px;
+    }
+    .buttonorange{
+
+        background-color:rgb(242, 157, 51);
+        color:white;
+        border-radius: 10px;
+        padding: 3px;
+        }
