@@ -1,0 +1,14 @@
+*{
+margin:0;
+}
+
+
+#logoset , .verticalalign{
+vertical-align: middle;
+}
+
+.verticalalign{
+
+    font-size: 40px;
+
+}
