@@ -2,6 +2,13 @@
 margin:0;
 }
 
+header{
+background-color: white;
+}
+
+body{
+background-color:#f6f8f9 ;
+}
 
 #logoset , .verticalalign{
 vertical-align: middle;
@@ -10,5 +17,12 @@ vertical-align: middle;
 .verticalalign{
 
     font-size: 40px;
+
+}
+
+main{
+background-color: white;
+    margin-top:50px;
+
 
 }
