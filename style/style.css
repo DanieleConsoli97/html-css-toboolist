@@ -35,3 +35,28 @@ main{
     background-color: white;
     margin-top:5px;
 }
+
+.container.add{
+    border-radius: 3px 3px 0px 0px  ;
+
+} 
+
+#buttontask{
+color:white;
+background-color: #47adf1;
+display: inline-block;
+width: auto;
+padding: 5px;
+border-radius: 3px;
+margin: 10px auto 10px 50px ;
+}
+#buttonaddsection{
+    color:#c7cdd1;
+    background-color: white;
+    border:1px solid #c7cdd1 ;
+    display: inline-block;
+    width: auto;
+    border-radius: 3px;
+    padding: 5px;
+   
+    }
